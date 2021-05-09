@@ -9,7 +9,7 @@ OBS: É necessário esperar alguns segundos para que o servidor inicialize e as 
 
 DSVendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em apresentar em um dashboard com gráficos dados sobre um sistema de vendas.
+A aplicação consiste em apresentar dados sobre um sistema de vendas em um dashboard com gráficos.
 
 
 ## Layout web
